@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-123-add-an-owner-scoped-get-schedules-endpoint",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-123-add-an-owner-scoped-get-schedules-endpoint": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-123-add-an-owner-scoped-get-schedules-endpoint",
+    "origin"
+  ]
+}
